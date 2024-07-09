@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-71,
+				-298
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-12,
+				-297
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-81,
+				-307
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-77,
+				-255
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-55,
+				-306
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				-274
+			],
+			"anim": "WHAT",
+			"fps": 24,
+			"name": "transition",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-76,
+				-297
+			],
+			"indices": [],
+			"fps": 1,
+			"anim": "HELP",
+			"loop": true,
+			"name": "HELP0024"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/nugget",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "nug",
+	"flip_x": true,
+	"healthbar_colors": [
+		86,
+		60,
+		27
+	],
+	"camera_position": [
+		60,
+		270
+	],
+	"sing_duration": 6.1,
+	"scale": 1.4
+}
